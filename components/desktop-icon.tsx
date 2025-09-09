@@ -67,4 +67,3 @@ export function LinkedInIcon({ onClick }: { onClick: () => void }) {
     </div>
   )
 }
-

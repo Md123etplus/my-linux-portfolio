@@ -171,4 +171,3 @@ export function TerminalWindow({ active, onClose, onFocus }: TerminalWindowProps
     </div>
   )
 }
-

@@ -135,4 +135,3 @@ export default function EditProject({ params }: { params: { id: string } }) {
     </div>
   )
 }
-

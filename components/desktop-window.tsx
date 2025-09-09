@@ -130,4 +130,3 @@ export function DesktopWindow({
     </div>
   )
 }
-

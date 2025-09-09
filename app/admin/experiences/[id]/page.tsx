@@ -165,4 +165,3 @@ export default function EditExperience({ params }: { params: { id: string } }) {
     </div>
   )
 }
-
